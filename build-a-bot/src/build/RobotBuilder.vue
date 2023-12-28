@@ -36,7 +36,13 @@
 
 <script>
 export default {
-  name: 'RobotBuilder',
+    name: 'RobotBuilder',
+
+    data() {
+        return {
+
+        };
+    },
 };
 </script>
 
